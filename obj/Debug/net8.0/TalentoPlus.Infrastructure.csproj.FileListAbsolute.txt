@@ -1,0 +1,16 @@
+/home/rwadmin/Documentos/TalentoPlus_SAS/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.csproj.AssemblyReference.cache
+/home/rwadmin/Documentos/TalentoPlus_SAS/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/rwadmin/Documentos/TalentoPlus_SAS/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.AssemblyInfoInputs.cache
+/home/rwadmin/Documentos/TalentoPlus_SAS/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.AssemblyInfo.cs
+/home/rwadmin/Documentos/TalentoPlus_SAS/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.csproj.CoreCompileInputs.cache
+/home/rwadmin/Documentos/TalentoPlus_SAS/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.sourcelink.json
+/home/rwadmin/Documentos/TalentoPlus_SAS/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Infrastructure.deps.json
+/home/rwadmin/Documentos/TalentoPlus_SAS/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Infrastructure.dll
+/home/rwadmin/Documentos/TalentoPlus_SAS/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Infrastructure.pdb
+/home/rwadmin/Documentos/TalentoPlus_SAS/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Core.dll
+/home/rwadmin/Documentos/TalentoPlus_SAS/TalentoPlus.Infrastructure/bin/Debug/net8.0/TalentoPlus.Core.pdb
+/home/rwadmin/Documentos/TalentoPlus_SAS/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.csproj.CopyComplete
+/home/rwadmin/Documentos/TalentoPlus_SAS/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.dll
+/home/rwadmin/Documentos/TalentoPlus_SAS/TalentoPlus.Infrastructure/obj/Debug/net8.0/refint/TalentoPlus.Infrastructure.dll
+/home/rwadmin/Documentos/TalentoPlus_SAS/TalentoPlus.Infrastructure/obj/Debug/net8.0/TalentoPlus.Infrastructure.pdb
+/home/rwadmin/Documentos/TalentoPlus_SAS/TalentoPlus.Infrastructure/obj/Debug/net8.0/ref/TalentoPlus.Infrastructure.dll
